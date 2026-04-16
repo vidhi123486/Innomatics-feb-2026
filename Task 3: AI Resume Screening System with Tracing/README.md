@@ -157,17 +157,6 @@ Do not invent skills, tools, education, or experience.
 If something is unclear, leave it out instead of guessing.
 ```
 
-## Scoring Logic
-
-The final score is out of 100 and is based on:
-
-- required skill match: 45 points
-- required tool match: 20 points
-- experience match: 20 points
-- education match: 5 points
-- resume evidence quality: 10 points
-
-This scoring approach is intentionally explainable and easy to justify in a report.
 
 ## Debugging and Incorrect Output Discussion
 
