@@ -181,14 +181,6 @@ One useful debugging example is the average resume:
 
 That gives you a concrete example to discuss in your report under "incorrect output" and debugging.
 
-## Submission Notes
-
-For your assignment submission, include:
-
-- the complete code
-- LangSmith screenshots showing traces
-- a short report explaining the pipeline, scoring logic, prompts, and debugging observations
-- your GitHub link if required
 
 ## Important Note
 
