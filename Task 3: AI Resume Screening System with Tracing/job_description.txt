@@ -1,0 +1,37 @@
+Data Scientist
+
+We are hiring a Data Scientist to build machine learning solutions that improve business decision-making.
+
+Required skills:
+- Python
+- SQL
+- Machine Learning
+- Statistics
+- Data Cleaning
+- Feature Engineering
+- Model Evaluation
+- Communication
+
+Required tools:
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter Notebook
+- Git
+
+Preferred tools or platforms:
+- TensorFlow or PyTorch
+- Streamlit
+- Tableau or Power BI
+
+Experience requirements:
+- 3+ years of experience in data science, machine learning, or analytics
+- Experience working with supervised learning models
+- Experience presenting insights to business stakeholders
+
+Education:
+- Bachelor's degree in Computer Science, Data Science, Statistics, or a related field
+
+Nice to have:
+- NLP experience
+- Deployment experience
