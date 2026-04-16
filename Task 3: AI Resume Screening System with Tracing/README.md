@@ -157,19 +157,27 @@ Do not invent skills, tools, education, or experience.
 If something is unclear, leave it out instead of guessing.
 ```
 
+## Scoring Logic
 
-## Debugging and Incorrect Output Discussion
+The final score is out of 100 and is based on:
 
-If the LLM extracts a borderline skill too generously, the deterministic scoring notes and LangSmith traces make it easier to inspect where the mismatch happened.
+- required skill match: 45 points
+- required tool match: 20 points
+- experience match: 20 points
+- education match: 5 points
+- resume evidence quality: 10 points
 
-One useful debugging example is the average resume:
+This scoring approach is intentionally explainable and easy to justify in a report.
 
-- it mentions `Basic Machine Learning`
-- it does not clearly show strong supervised learning depth
-- traces help verify whether the extraction step was too lenient
 
-That gives you a concrete example to discuss in your report under "incorrect output" and debugging.
+## Submission Notes
 
+For your assignment submission, include:
+
+- the complete code
+- LangSmith screenshots showing traces
+- a short report explaining the pipeline, scoring logic, prompts, and debugging observations
+- your GitHub link if required
 
 ## Important Note
 
