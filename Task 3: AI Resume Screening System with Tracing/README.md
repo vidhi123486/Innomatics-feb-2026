@@ -157,28 +157,6 @@ Do not invent skills, tools, education, or experience.
 If something is unclear, leave it out instead of guessing.
 ```
 
-## Scoring Logic
-
-The final score is out of 100 and is based on:
-
-- required skill match: 45 points
-- required tool match: 20 points
-- experience match: 20 points
-- education match: 5 points
-- resume evidence quality: 10 points
-
-This scoring approach is intentionally explainable and easy to justify in a report.
-
-
-## Submission Notes
-
-For your assignment submission, include:
-
-- the complete code
-- LangSmith screenshots showing traces
-- a short report explaining the pipeline, scoring logic, prompts, and debugging observations
-- your GitHub link if required
-
 ## Important Note
 
 This project avoids hardcoded candidate outcomes. Scores are computed from extracted resume evidence and job requirements, then explained through a grounded explanation step.
